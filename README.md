@@ -6,5 +6,11 @@ Arduino has an existing Mouse.h library, but it only works for other Arduino mod
 I am adapting Prabeen Raj's work:
 https://github.com/Prabeen-Raj/Arduino-UNO-Mouse/tree/main 
 
-Right now I've set up the protocol for controlling the computer mouse using arduino uno. 
-The next step is to combine this with the Adafruit 10-DOF sensor's gyroscope. 
+Right now I've set up the protocol for controlling the computer mouse using arduino uno and combined this with the Adafruit 10-DOF sensor's gyroscope. 
+
+Next steps:
+- Improving the python serial read algorithm to read data faster
+- Tune the gyroscope mouse control to be more precise/faster. Also make right/left control even (right now it's harder to move the mouse right, something to do with the sensor)
+- Adding error handling
+- Resolution adaptation
+- .exe file / easy install

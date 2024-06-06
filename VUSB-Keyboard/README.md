@@ -4,3 +4,5 @@ I've used a few guides to work on this:
 https://www.youtube.com/watch?v=RoG_-9lAnSI
 
 https://github.com/todd-herbert/unoHID?tab=readme-ov-file
+
+https://github.com/NicoHood/HID
